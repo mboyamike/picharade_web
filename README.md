@@ -34,8 +34,8 @@ A real-time multiplayer drawing and guessing game built with Nuxt.js and Firebas
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/drawguess-web.git
-cd drawguess-web
+git clone https://github.com/mboyamike/picharade_web.git
+cd picharade-web
 ```
 
 2. Install dependencies:
@@ -67,7 +67,6 @@ yarn dev
 
 ```
 ├── assets/
-│   ├── css/
 │   └── images/
 ├── components/
 │   ├── auth/
